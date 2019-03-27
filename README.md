@@ -2,10 +2,10 @@ Hey, I am a developer and QA analyst.  Don't get me wrong, testing is all good a
 
 Oh, I:
 
-[x] Code
-[x] Test
-[x] Break things intentionally to experiment and research
-[x] Drink water
-[x] Enjoy Jazz
-[x] Other stuff
+- [x] Code
+- [x] Test
+- [x] Break things intentionally to experiment and research
+- [x] Drink water
+- [x] Enjoy Jazz
+- [x] Other stuff
 
